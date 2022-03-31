@@ -1,0 +1,8 @@
+{
+    "require": {
+        "monolog/monolog": "^2.3"
+    },
+    "config": {
+        "vendor-dir": "plugins"
+    }
+}
